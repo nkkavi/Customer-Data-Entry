@@ -1,7 +1,7 @@
 # NIRANJAN KARUPOTHULA
-# Customer Data Entry Tkinter
+# Customer Data Entry CustomTkinter
 
-Customer Data Entry Tkinter is a Python application that allows users to enter and manage customer data using a graphical user interface built with Tkinter library. The application provides a form to enter customer details such as name, email, and phone number, and allows for easy data entry and storage.
+Customer Data Entry CustomTkinter is a Python application that allows users to enter and manage customer data using a graphical user interface built with CustomTkinter library. The application provides a form to enter customer details such as name, location, and phone number etc., and allows for easy data entry and storage.
 
 ## Features
 
@@ -14,10 +14,10 @@ Customer Data Entry Tkinter is a Python application that allows users to enter a
 ## Installation
 
 1. Clone the repository:
-https://github.com/nkkavi/CustomerDataEntryTkinter.git
+https://github.com/nkkavi/CustomerDataEntryCustomTkinter.git
 
 2. Navigate to the project directory:
-cd CustomerDataEntryTkinter
+cd CustomerDataEntryCustomTkinter
 
 
 3. Install the required dependencies:
