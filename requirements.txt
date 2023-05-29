@@ -1,0 +1,16 @@
+# NIRANJAN KARUPOTHULA
+
+# Customer Data Entry CustomTkinter Dependencies
+
+pip>=23.1.2
+
+# Pandas library for data manipulation
+pandas>=2.0.1
+openpyxl>=3.1.2	
+
+# CustomTkinter library for custom widgets
+customtkinter>=5.1.2
+
+# Matplotlib library for data visualization
+matplotlib>=3.7.1
+
